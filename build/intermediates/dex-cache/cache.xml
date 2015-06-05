@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yagnasrialla/AndroidApps/hackday/cards1/Swipecards/example/build/intermediates/exploded-aar/com.lorentzos.swipecards/library/1.0.8/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="88d9f58cf7c6840537c1b92c20f79069b485a286">
+        <dex dex="/Users/yagnasrialla/AndroidApps/hackday/cards1/Swipecards/example/build/intermediates/pre-dexed/debug/classes-a946df067c805b195136cdfa1bbba6cf8d166fda.jar" />
+    </item>
+
+</items>
